@@ -1,5 +1,6 @@
 /*
-In this pracitce we are creating 
+In this pracitce we are assigning runner specific agre group to
+specific running time and assinging them a random race number
 */
 
 // step 1: this varible was given ; ensures we get random whole numbers
