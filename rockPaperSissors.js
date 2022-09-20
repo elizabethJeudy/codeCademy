@@ -1,3 +1,8 @@
+/*
+in this practice, we created a simple game of rock, paper, scissors.
+ A winner it determined and if there is a tie it is consoled
+*/
+
 // step 1: user should be able to choose 'rock', 'paper', or 'scissors' when game starts
 // step 2: check to make sure user inputs valid choice
 const getUserChoice = (userInput) => {
